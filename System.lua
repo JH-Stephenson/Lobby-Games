@@ -8,9 +8,6 @@ local ServerTable = {}
 local PlayerTable = {}
 
 --SystemFunctions
-
---CleanPlayerTable
-
 --CleanTable
 local function EndRound()
     table.clear(PlayerTable)
