@@ -1,4 +1,4 @@
-# Team-Games
+# Lobby-Games
 A team selection system for games that wish to impliment a lobby system.
 
 What do you need to make this work?
